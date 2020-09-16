@@ -1,0 +1,50 @@
+[
+ {
+  "insuredID": "R0001712501",
+  "patientLastName": "BECHER",
+  "patientFirstname": "WENDY",
+  "dateOfBirth": "19630508",
+  "taxIdentificationNumber": "351298203",
+  "billingProviderNpi": "1114020252"
+ },
+ {
+  "insuredID": "00066269801,CLAXTON,LISA,19660606,351298203,1114020252",
+  "patientLastName": "",
+  "patientFirstname": "",
+  "dateOfBirth": "",
+  "taxIdentificationNumber": "",
+  "billingProviderNpi": ""
+ },
+ {
+  "insuredID": "00081588705,HATTON,RACHEL,19940920,351298203,1114020252",
+  "patientLastName": "",
+  "patientFirstname": "",
+  "dateOfBirth": "",
+  "taxIdentificationNumber": "",
+  "billingProviderNpi": ""
+ },
+ {
+  "insuredID": "00066349701,MANN,SUSAN,19531126,351298203,1114020252",
+  "patientLastName": "",
+  "patientFirstname": "",
+  "dateOfBirth": "",
+  "taxIdentificationNumber": "",
+  "billingProviderNpi": ""
+ },
+ {
+  "insuredID": "00067037001,MEISTER,LISA,19650831,351298203,1114020252",
+  "patientLastName": "",
+  "patientFirstname": "",
+  "dateOfBirth": "",
+  "taxIdentificationNumber": "",
+  "billingProviderNpi": ""
+ },
+ {
+  "insuredID": "00081470401,PEARSON,DIANE,19600822,351298203,1114020252",
+  "patientLastName": "",
+  "patientFirstname": "",
+  "dateOfBirth": "",
+  "taxIdentificationNumber": "",
+  "billingProviderNpi": ""
+ }
+]
